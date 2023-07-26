@@ -32,6 +32,10 @@
   cursor: pointer;
 }
 
+.gpt3__footer-btn p:hover {
+  color: var(--color-subtext);
+}
+
 .gpt3__footer-btn p {
   box-sizing: border-box;
   font-family: var(--font-family);
@@ -95,6 +99,10 @@
   color: #ffffff;
   margin: 0.5rem 0;
   cursor: pointer;
+}
+
+.gpt3__footer-links_div p:hover {
+  opacity: 0.7;
 }
 
 .gpt3__footer-copyright {
