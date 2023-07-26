@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>bag-09</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Cards" transform="translate(-43.000000, -607.000000)" stroke="#A27430" stroke-width="1.15384615">
+            <g id="Transactions" transform="translate(30.000000, 597.000000)">
+                <g id="Shopping">
+                    <g id="bag-09">
+                        <g>
+                            <g transform="translate(14.000000, 11.000000)">
+                                <polygon id="Path" points="20 23.0769231 0 23.0769231 2.30769231 6.15384615 17.6923077 6.15384615"></polygon>
+                                <path d="M6.15384615,9.23076923 L6.15384615,3.84615385 C6.15384615,1.72230769 7.87615385,0 10,0 L10,0 C12.1238462,0 13.8461538,1.72230769 13.8461538,3.84615385 L13.8461538,9.23076923" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

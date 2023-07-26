@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>pill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cards" transform="translate(-42.000000, -673.000000)" fill="#9137BC" fill-rule="nonzero">
+            <g id="Transactions" transform="translate(30.000000, 597.000000)">
+                <g id="Medicine" transform="translate(0.000000, 64.000000)">
+                    <g id="Shopping">
+                        <g id="pill">
+                            <g transform="translate(12.000000, 12.000000)">
+                                <path d="M22.0144,1.984 C20.7352,0.7044 19.0276,0 17.206,0 C15.3848,0 13.6772,0.7044 12.3976,1.984 L1.984,12.398 C0.7044,13.6772 0,15.3848 0,17.206 C0,19.0276 0.7044,20.7352 1.984,22.0144 C3.2632,23.294 4.9708,23.9984 6.7924,23.9984 C8.614,23.9984 10.3212,23.294 11.6008,22.0144 L22.0148,11.6004 C23.2944,10.3212 23.9988,8.6136 23.9988,6.792 C23.9988,4.9704 23.294,3.2632 22.0144,1.984 Z M21.4488,11.0348 L16.6404,15.8432 L8.1552,7.358 L12.9636,2.5496 C14.0916,1.4212 15.5984,0.8 17.206,0.8 C18.814,0.8 20.3204,1.4212 21.4488,2.5496 C22.5772,3.6776 23.1984,5.1844 23.1984,6.792 C23.1984,8.3996 22.5772,9.9068 21.4488,11.0348 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
